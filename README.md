@@ -1,5 +1,4 @@
-![Microsoft Data & AI Technical Bootcamp](media/banner.png)
-
+# Microsoft Partner Bootcamp - Data Track 
 
 *Student materials for the Microsoft Data &amp; AI Technical Bootcamp*
 
