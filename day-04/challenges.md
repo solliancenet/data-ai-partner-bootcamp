@@ -37,7 +37,7 @@ Wide World Importers wants your help proving that Synapse Analytics is the right
 
 ### Technical details
 
-Sales data is currently being inserted into the SQL pool. About 57% of the data is already in the internal tables of the SQL Pool. This roughly covers Jan 2014 to April 2017. The remainder of the data is in external CSV and Parquet files.
+Sales data is currently being inserted into the SQL pool. The current data covers Jan 2017 to April 2017. The remainder of the data is in external CSV and Parquet files.
 
 One of WWI's large LOB systems had a major outage during the month of May 2017. Data was exported using an alternative approach and is available in CSV files. Starting June 2017, data is available as Parquet files.
 
